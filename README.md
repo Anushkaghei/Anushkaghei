@@ -8,8 +8,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/anushkaghei"><img align="center" height="30" width="30" alt="anushkaghei" title="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
-  <a href="https://instagram.com/anushka_743"><img align="center" height="30" width="30" alt="anushka_743" title="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://kaggle.com/anushka74" alt="anushka74" title="Kaggle"><img align="center" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://devfolio.co/@anushkag"><img align="center" height="30" width="30" alt="anushkag" title="Devfolio" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"></a>
