@@ -16,7 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.fiverr.com/share/qAP1Q2"><img align="center" height="30" width="30" alt="nush74" title="Fiverr" src="https://user-images.githubusercontent.com/70473461/92360592-5a3bb800-f0ed-11ea-8dce-dd95b72c7825.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Free Gifts" title="Free gifts" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href=""><img align="center" height="30" width="30" alt="Free Gifts" title="Free gifts" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 </h2>
 
