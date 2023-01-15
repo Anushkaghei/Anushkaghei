@@ -12,8 +12,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://devfolio.co/@anushkag"><img align="center" height="30" width="30" alt="anushkag" title="Devfolio" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.fiverr.com/share/qAP1Q2"><img align="center" height="30" width="30" alt="nush74" title="Fiverr" src="https://user-images.githubusercontent.com/70473461/92360592-5a3bb800-f0ed-11ea-8dce-dd95b72c7825.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+ <!-- <a href="https://www.fiverr.com/share/qAP1Q2"><img align="center" height="30" width="30" alt="nush74" title="Fiverr" src="https://user-images.githubusercontent.com/70473461/92360592-5a3bb800-f0ed-11ea-8dce-dd95b72c7825.png"></a> 
+  &#8287;&#8287;&#8287;&#8287;&#8287;-->
   <a href="https://anushkaghei.github.io/referrals.github.io/"><img align="center" height="30" width="30" alt="Free Gifts" title="Free gifts" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 </h2>
