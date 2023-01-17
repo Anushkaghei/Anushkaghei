@@ -29,7 +29,7 @@
 
 <h2 align="left">Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anushkaghei&theme=dark&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Anushkaghei)](https://git.io/streak-stats)
   
 <p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anushkaghei&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
 
