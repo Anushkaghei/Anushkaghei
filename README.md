@@ -30,7 +30,14 @@
 <h2 align="left">Stats:
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Anushkaghei&theme=dark)](https://git.io/streak-stats)
-  
+
+<a href="https://github.com/drkostas">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Anushkaghei&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anushkaghei&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anushkaghei&theme=dracula)
+
 <p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anushkaghei&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
 
 <br>
@@ -38,7 +45,7 @@
   <br>
   <img src="https://profile-counter.glitch.me/Anushkaghei/count.svg" /></p>
 <br>
-
+</h2>
 <!--
 <h2 align="left">Repositories:
 <br>
