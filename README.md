@@ -29,6 +29,11 @@
 
 <h2 align="left">Stats:
 
+<p align="center"> 
+  Profile Views<br>
+  <img src="https://profile-counter.glitch.me/Anushkaghei/count.svg" />
+</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Anushkaghei&theme=dark)](https://git.io/streak-stats)
   
 <p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anushkaghei&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
