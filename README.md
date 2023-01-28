@@ -46,26 +46,7 @@
   <img src="https://profile-counter.glitch.me/Anushkaghei/count.svg" /></p>
 <br>
 </h2>
-<!--
-<h2 align="left">Repositories:
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Anushkaghei/Student-Attendance-Management" title="Face recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Anushkaghei&repo=Student-Attendance-Management&theme=react&border_color=61dafb&border_radius=20"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/Anushkaghei?tab=repositories" title="Show Repositories"> Show More </a>
-</h4>
-</h2>
--->
 <div align="center">
 <h1 align="center">Skills</h1>
 <!-- Main Table Column one -->
