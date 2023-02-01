@@ -1,7 +1,10 @@
 
 <h1 align="center">Anushka Ghei</h1>
-<h2 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=C2C1D6&background=000000&center=true&vCenter=true&width=435&lines=I'm+an+ML+enthusiast" alt="Typing SVG" /></a>
+<h2 align="left"> My Interests:
+  <br>
+  <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=400&color=318CF7&background=111111E7&center=true&vCenter=true&width=435&lines=Machine+Learning;Augmented+Reality;Cloud+Computing+" alt="Typing SVG" /></a>
+  </p>
 </h2>
 <h2 align="left">Connect with me:
 
