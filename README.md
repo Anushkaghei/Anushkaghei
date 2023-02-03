@@ -11,8 +11,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/anushkaghei"><img align="center" height="30" width="30" alt="anushkaghei" title="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
-  <a href="https://kaggle.com/anushka74" alt="anushka74" title="Kaggle"><img align="center" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://devfolio.co/@anushkag"><img align="center" height="30" width="30" alt="anushkag" title="Devfolio" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <!-- <a href="https://www.fiverr.com/share/qAP1Q2"><img align="center" height="30" width="30" alt="nush74" title="Fiverr" src="https://user-images.githubusercontent.com/70473461/92360592-5a3bb800-f0ed-11ea-8dce-dd95b72c7825.png"></a> 
@@ -20,7 +18,7 @@
   <a href="https://anushkaghei.github.io/referrals.github.io/"><img align="center" height="30" width="30" alt="Free Gifts" title="Free gifts" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 </h2>
-
+<!--
 <h2 align="left">My top 10 technologies:
 
 
@@ -29,7 +27,7 @@
 |![](https://img.shields.io/badge/-unity-black?logo=unity&style=plastic)|![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)|![](https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic)|![](https://img.shields.io/badge/-OpenCV-black?logo=opencv&style=plastic)|![](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=plastic)|
 
 </h2>
-
+-->
 <h2 align="left">Stats:
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anushkaghei&theme=tokyonight_duo)
