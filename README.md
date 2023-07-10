@@ -40,8 +40,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anushkaghei&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anushkaghei&theme=dracula)
 
-<p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anushkaghei&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
-
 <br>
   <p align="center">Profile Views <br>
   <br>
