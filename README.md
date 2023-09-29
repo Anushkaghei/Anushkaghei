@@ -33,7 +33,6 @@
 -->
 <h2 align="left">Stats:
   
-![GitHub Streak](https://streak-stats.demolab.com?user=Anushkaghei&theme=tokyonight_duo)
 
 <img src="https://github-stats-alpha.vercel.app/api?username=Anushkaghei&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 
