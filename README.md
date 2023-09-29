@@ -1,53 +1,22 @@
 
 <h1 align="center">Anushka Ghei</h1>
-<!--
-<h2>
-  <br>
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=400&color=318CF7&background=111111E7&center=true&vCenter=true&width=435&lines=Machine+Learning;Augmented+Reality;Cloud+Computing+" alt="Typing SVG" /></a>
-  </p>
-</h2>
 
-<h2 align="left">Connect with me:
+<h2 align="left"> Stats: <br>  
 
-<p align="center">
-  <a href="https://linkedin.com/in/anushkaghei"><img align="center" height="30" width="30" alt="anushkaghei" title="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; 
-  <a href="https://devfolio.co/@anushkag"><img align="center" height="30" width="30" alt="anushkag" title="Devfolio" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="https://www.fiverr.com/share/qAP1Q2"><img align="center" height="30" width="30" alt="nush74" title="Fiverr" src="https://user-images.githubusercontent.com/70473461/92360592-5a3bb800-f0ed-11ea-8dce-dd95b72c7825.png"></a> 
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://anushkaghei.github.io/referrals.github.io/"><img align="center" height="30" width="30" alt="Free Gifts" title="Free gifts" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
-</h2>
--->
-<!--
-<h2 align="left">My top 10 technologies:
-
-
-|![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)|![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)|![](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=plastic)|![](https://img.shields.io/badge/-C-black?logo=C&style=plastic)|![](https://img.shields.io/badge/-HTML-black?logo=html5&style=plastic)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/-unity-black?logo=unity&style=plastic)|![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)|![](https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic)|![](https://img.shields.io/badge/-OpenCV-black?logo=opencv&style=plastic)|![](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=plastic)|
-
-</h2>
--->
-<h2 align="left">Stats:
   
+  <img src="https://github-stats-alpha.vercel.app/api?username=Anushkaghei&cc=22272e&tc=37BCF6&ic=fff&bc=0000">  
 
-<img src="https://github-stats-alpha.vercel.app/api?username=Anushkaghei&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anushkaghei&theme=dracula) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anushkaghei&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anushkaghei&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anushkaghei&theme=dracula)
-
-<br>
-  <p align="center">Profile Views <br>
   <br>
-  <img src="https://profile-counter.glitch.me/Anushkaghei/count.svg" /></p>
-<br>
+    <p align="center">Profile Views <br>
+    <br>
+    <img src="https://profile-counter.glitch.me/Anushkaghei/count.svg" /></p>
 </h2>
 
 <div align="center">
-<h1 align="center">Skills</h1>
+<h1 align="center">Skills: </h1>
 <!-- Main Table Column one -->
 <table><tr><td valign="top" width="50%">
 
@@ -137,7 +106,6 @@
 </tr>
 </table> 
 </div>
-
 
 
   
